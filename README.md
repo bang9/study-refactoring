@@ -6,7 +6,6 @@
 ### Articles
 - https://ifuwanna.tistory.com/503
 - https://ifuwanna.tistory.com/504
-- https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=ihappy4080
 
 ### Rules
 <img width=400 src="https://user-images.githubusercontent.com/26326015/226519345-3cf7fdfc-3c95-4301-b81b-519f44c140a5.png" />
