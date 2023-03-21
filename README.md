@@ -9,7 +9,10 @@
 - https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=ihappy4080
 
 ### Rules
-최대한의 학습 효율을 위해서 스터디는 [연습 > 가르치기 > 토론] 의 반복 사이클로 진행됩니다. (코드 예제 > 리팩토링 > 테스트 코드 추가 > 발표 > 토론)
+<img width=400 src="https://user-images.githubusercontent.com/26326015/226519345-3cf7fdfc-3c95-4301-b81b-519f44c140a5.png" />
+
+최대한의 학습 효율을 위해서 스터디는 [연습 > 가르치기 > 토론] 의 반복 사이클로 진행됩니다.
+<br/>(코드 예제 > 리팩토링 > 테스트 코드 추가 > 발표 > 토론)
 
 - 참여자
   - 모든 참여자들은 주 단위로 진행될 코드에 대해서 리팩토링을 진행해야 합니다.
